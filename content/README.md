@@ -20,3 +20,6 @@ Para desarrolladores de React que quieran subir su nivel de seniority - SOLID, h
     * State Initializer
     * State Reducer
 
+#### 1.2  Conoce Cómo trabajaremos en el curso
+
+Proyecto creado desde react-cli
